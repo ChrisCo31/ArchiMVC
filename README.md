@@ -1,4 +1,6 @@
-les differentes étapes liées au MOOC sur l'architecture MVC d'Openclassrooms
+Les differentes étapes liées au MOOC sur l'architecture MVC d'Openclassrooms
+
+Dernier : mars 2018
 
 
 Etape 1 : le fichier unique, le code tout mélangé
